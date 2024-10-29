@@ -4,18 +4,13 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
-
 #
-<p align="center"> Eu sou a Gabie, atualmente estudo Análise e Desenvolvimento de Sistemas, Engenharia de Produção e sou estagiária na área de tecnologia.
+<p align="center"> Meu nome é Gabriela, atualmente estudo Análise e Desenvolvimento de Sistemas, Engenharia de Produção e sou estagiária na área de tecnologia.
   
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
 <h3 align="left">Vamos nos conectar!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00CED1&color:FFF)](mailto:drgabrielacastro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00CED1&color:FFF)](https://www.linkedin.com/in/gabriela-de-castro-1b27112ab/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00CED1&color:FFF)](https://www.instagram.com/gabicastrum/?__d=1)
 
