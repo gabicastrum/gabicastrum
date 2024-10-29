@@ -17,7 +17,7 @@
 
 <h3 align="left">Linguagens de Programação</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css)](https://skillicons.dev)<br><br>
 
 <h3 align="left">Ferramentas e Tecnologias</h3>
 
