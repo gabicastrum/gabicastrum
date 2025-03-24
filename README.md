@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Graduated in Systems Analysis and Development, and Computer Science. I love cats, books and technology. I am currently a Software Development intern at <db>.</p>
+<p align="left">Graduated in Systems Analysis and Development, and Computer Science. I love cats, books and technology. I am currently a Software Development intern at < db > .</p>
 <p align="left">✨ Creating bugs since feb/2024</p>
 
 ###
