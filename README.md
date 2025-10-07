@@ -58,20 +58,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   </p>
 
-  ###
-
-  <h2 align="left">GitHub Stats</h2>
-
-  ###
-
-  <div align="center">
-    <a href="https://github.com/gabicastrum">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabicastrum&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabicastrum&layout=compact&langs_count=7&theme=buefy&hide=html"/>
-    </a>
-    <img src="https://raw.githubusercontent.com/gabicastrum/gabicastrum/output/snake.svg" alt="Snake animation" />
-  </div>
-
 </details>
 
 <details>
@@ -106,7 +92,7 @@
 
   ###
 
-  <h2 align="left">Minhas Habilidades (Tech Stack)</h2>
+  <h2 align="left">Minhas Habilidades</h2>
 
   ###
 
